@@ -19,3 +19,8 @@ p{
     text-align: end;
     background-color: red;
 }
+ul{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
